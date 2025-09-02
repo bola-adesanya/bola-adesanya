@@ -1,6 +1,6 @@
 # Welcome 👋
 
-This is my GitHub Page — a space where I share projects, ideas, and experiments.
+This is my GitHub Page, a space where I share projects, ideas, and experiments.
 
 ## About Me
 
