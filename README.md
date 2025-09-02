@@ -1,16 +1,24 @@
-### Hi there 😄
+# Welcome 👋
 
-<!--
-**bola-adesanya/bola-adesanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my GitHub Page — a space where I share projects, ideas, and experiments.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about building solutions that connect **healthcare, data science, and product strategy** with real-world impact. Here you’ll find projects ranging from:
+
+* ⚙️ **Data Engineering & Cloud** – scalable pipelines, analytics platforms, automation
+* 🧬 **Biomedical Data Science** – health informatics, predictive modeling, research tools
+* 🤖 **AI & ML** – applications for decision support, risk modeling, and innovation
+
+## What You’ll Find Here
+
+* **Projects**: Code repositories, dashboards, and experiments
+* **Articles & Notes**: Documentation, tutorials, and learnings I’ve picked up
+* **Portfolio**: Highlights of professional and academic work
+
+## Get in Touch
+
+If you’d like to collaborate, discuss ideas, or just connect:
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/bola-adesanya/)
+* ✉️ [Email](consult@sofivaconsulting.com)
