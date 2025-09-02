@@ -18,7 +18,4 @@ I am passionate about building solutions that connect **healthcare, data science
 
 ## Get in Touch
 
-If you’d like to collaborate, discuss ideas, or just connect:
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/bola-adesanya/)
-* ✉️ [Email](consult@sofivaconsulting.com)
+If you’d like to collaborate, discuss ideas, or just connect.
