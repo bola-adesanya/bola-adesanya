@@ -4,7 +4,7 @@ This is my GitHub Page, a space where I share projects, ideas, and experiments.
 
 ## About Me
 
-I am passionate about building solutions that connect **healthcare, data science, and product strategy** with real-world impact. Here you’ll find projects ranging from:
+I am passionate about building solutions with real-world impact. Here you’ll find projects ranging from:
 
 * ⚙️ **Data Engineering & Cloud** – scalable pipelines, analytics platforms, automation
 * 🧬 **Biomedical Data Science** – health informatics, predictive modeling, research tools
