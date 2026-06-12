@@ -19,7 +19,7 @@ I build and translate data platforms, analytics products, and AI-enabled decisio
 | Airflow Data Pipeline | Workflow orchestration and data quality checks | Airflow, Docker, Redshift, S3 |
 | Responsible AI Evaluation Lab | Model evaluation, risk controls, governance patterns | Python, evals, AI risk framework |
 
-## Current Build Themes
+## Future Build Themes
 - Payment analytics and risk intelligence
 - Healthcare AI evaluation and value-based care analytics
 - Enterprise AI governance and product operating models
