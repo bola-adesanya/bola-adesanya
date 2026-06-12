@@ -1,21 +1,30 @@
-# Welcome 👋
+# Bola Adesanya
 
-This is my GitHub Page, a space where I share projects, ideas, and experiments.
+AI, Data & Cloud Product Leader focused on healthcare, financial services, payment analytics, and responsible AI systems.
 
-## About Me
+I build and translate data platforms, analytics products, and AI-enabled decision systems across regulated environments.
 
-I am passionate about building solutions with real-world impact. Here you’ll find projects ranging from:
+## Focus Areas
+- AI product strategy and responsible AI evaluation
+- Cloud data engineering: AWS, Azure, Airflow, SQL, Python
+- Healthcare analytics: value-based care, provider performance, clinical data
+- Financial/payment analytics: risk, controls, operational insights
 
-* ⚙️ **Data Engineering & Cloud** – scalable pipelines, analytics platforms, automation
-* 🧬 **Biomedical Data Science** – health informatics, predictive modeling, research tools
-* 🤖 **AI & ML** – applications for decision support, risk modeling, and innovation
+## Featured Work
 
-## What You’ll Find Here
+| Project | What it shows | Stack |
+|---|---|---|
+| CMS Home Health Efficiency Clustering | Value-based care analytics, clustering, payer/provider insight | Python, Jupyter, CMS data, KMeans |
+| AWS Lakehouse Pipeline | Cloud data architecture and pipeline implementation | AWS, Python, SQL |
+| Airflow Data Pipeline | Workflow orchestration and data quality checks | Airflow, Docker, Redshift, S3 |
+| Responsible AI Evaluation Lab | Model evaluation, risk controls, governance patterns | Python, evals, AI risk framework |
 
-* **Projects**: Code repositories, dashboards, and experiments
-* **Articles & Notes**: Documentation, tutorials, and learnings I’ve picked up
-* **Portfolio**: Highlights of professional and academic work
+## Current Build Themes
+- Payment analytics and risk intelligence
+- Healthcare AI evaluation and value-based care analytics
+- Enterprise AI governance and product operating models
 
-## Get in Touch
-
-If you’d like to collaborate, discuss ideas, or just connect.
+## Connect
+- Website: https://www.bolaadesanya.com
+- Responsible Tech Forum: https://responsibletechforum.org
+- LinkedIn: https://www.linkedin.com/in/bola-adesanya/
