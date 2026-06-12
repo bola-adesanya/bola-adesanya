@@ -2,8 +2,6 @@
 
 AI, Data & Cloud Product Leader focused on healthcare, financial services, payment analytics, and responsible AI systems.
 
-I build and translate data platforms, analytics products, and AI-enabled decision systems across regulated environments.
-
 ## Focus Areas
 - AI product strategy and responsible AI evaluation
 - Cloud data engineering: AWS, Azure, Airflow, SQL, Python
