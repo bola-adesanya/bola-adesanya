@@ -18,9 +18,7 @@ AI, Data & Cloud Product Leader focused on healthcare, financial services, payme
 | Responsible AI Evaluation Lab | Model evaluation, risk controls, governance patterns | Python, evals, AI risk framework |
 
 ## Future Build Themes
-- Payment analytics and risk intelligence
-- Healthcare AI evaluation and value-based care analytics
-- Enterprise AI governance and product operating models
+-TBD
 
 ## Connect
 - Website: https://www.bolaadesanya.com
