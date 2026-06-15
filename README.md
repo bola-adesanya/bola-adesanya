@@ -1,12 +1,12 @@
 # Bola Adesanya
 
-AI, Data & Cloud Product Leader focused on healthcare, financial services, payment analytics, and responsible AI systems.
+Technical architecture and data/AI platform leader with 15+ years of experience designing, modernizing, and delivering enterprise software, cloud, data, analytics, and AI-enabled platforms across consulting, healthcare, financial services, government, energy, and public-sector environments.
 
 ## Focus Areas
-- AI product strategy and responsible AI evaluation
-- Cloud data engineering: AWS, Azure, Airflow, SQL, Python
-- Healthcare analytics: value-based care, provider performance, clinical data
-- Financial/payment analytics: risk, controls, operational insights
+- AI/Data product strategy and responsible AI evaluation
+- Cloud data and software engineering: AWS, Azure, SQL, Python, Typescript/Javascript, React/MERN Stack
+- Advanced analytics and ML Ops: Power BI, Tableau, Databricks
+- DevSecOps: GitLab, GitHub, AzureDevOps
 
 ## Featured Work
 
