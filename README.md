@@ -12,6 +12,7 @@ Technical architecture and data/AI platform leader with 15+ years of experience 
 
 | Project | What it shows | Stack |
 |---|---|---|
+| [NovaTech Revenue Intelligence](https://github.com/bola-adesanya/novatech-revenue-intelligence) | Builds an end-to-end revenue intelligence solution across CRM, marketing, and support data, with no-code ETL, interactive dashboards, semantic enrichment, cross-dataset AI querying, and governed validation of AI answers against opportunity-grain business rules | Amazon Quick, Amazon Quick Sight, SPICE, BI, Generative AI, Semantic Modeling, Data Governance |
 | [StyleSense Review Classifier](https://github.com/bola-adesanya/stylesense-review-classifier) | Predicts customer recommendations from review text; single scikit-learn pipeline from raw data to prediction, with NLP feature engineering and F1 0.93 on held-out data | Python, scikit-learn, spaCy, pandas, Jupyter |
 | [Recommendations with IBM](https://github.com/bola-adesanya/ibm-article-recommendations) | Article recommendation engine for the IBM Watson Studio community, built from 45,993 real user–article interactions. Blends four methods: rank-based, user–user collaborative filtering, content-based (TF-IDF + LSA + KMeans), and matrix factorization (SVD). Packaged as a pip-installable module with a Flask app and A/B test design for measuring engagement. | Python, scikit-learn, pandas, NumPy, SciPy, Flask, pytest |
 | [Texas County Health Analytics Dashboard](https://github.com/bola-adesanya/texas-county-health-powerbi) | Public health analytics, county-level KPI modeling, Power Query transformation, DAX measures, health equity insight | Power BI, DAX, Power Query, CSV |
@@ -19,9 +20,6 @@ Technical architecture and data/AI platform leader with 15+ years of experience 
 | [FHIR Health Analytics](https://github.com/bola-adesanya/fhir-health-analytics) | Modern Python package for synthetic FHIR data analysis, quality measures, defensive JSON parsing, testing, and CI/CD | Python, FHIR, Synthea, pytest, Ruff, mypy, GitHub Actions |
 | Responsible AI Evaluation Lab | Model evaluation, risk controls, governance patterns | Python, evals, AI risk framework |
 | [AI/Data Learning Portfolio](https://github.com/bola-adesanya/ai-data-learning-portfolio) | This portfolio documents applied learning projects across data science, machine learning, analytics engineering, cloud data architecture, and Software Engineering
-
-## Future Build Themes
--TBD
 
 ## Connect
 - Website: https://www.bolaadesanya.com
