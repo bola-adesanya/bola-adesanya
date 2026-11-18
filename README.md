@@ -1,6 +1,6 @@
 # Bola Adesanya
 
-I help organizations turn technology, data, and AI initiatives into measurable outcomes, with governance and the people who use the technology at the center. I have 15+ years leading enterprise technology and transformation work across healthcare, financial services, government, and energy. Today I lead [Sofiva](https://www.bolaadesanya.com), where I advise on AI and data strategy. I also founded the [Responsible Tech Forum](https://responsibletechforum.org), an ACM local chapter, and serve on the HIMSS Central Texas board.
+I help organizations turn technology, data, and AI initiatives into measurable outcomes, with governance and the people who use the technology at the center. I have 15+ years leading enterprise technology and transformation work across healthcare, financial services, government, and energy. Today I lead [Sofiva](https://www.bolaadesanya.com), where I advise on AI and data strategy. I am also the founder of the [Responsible Tech Forum](https://responsibletechforum.org), an ACM local chapter, and serve on the HIMSS Central Texas board.
 
 This profile holds my **Applied Data & AI Projects**: the hands-on side of my strategy work. These projects are how I test AI and data methods for myself, with a focus on health data and responsible AI, so the advice I give rests on real practice. Many began as graduate or professional coursework that I then rebuilt with tests, CI, and clear documentation. Each README says where the project came from.
 
